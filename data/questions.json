@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "materia": "Legislação Aplicada/Direito",
+    "assunto": "Lei de Execução Penal",
+    "dificuldade": 8,
+    "enunciado": "Durante a execução de pena privativa de liberdade, a administração penitenciária constatou falta disciplinar. Considerando as garantias aplicáveis ao procedimento disciplinar, assinale a alternativa correta.",
+    "alternativas": [
+      "A sanção pode ser aplicada oralmente, sem registro, quando a infração for evidente.",
+      "O isolamento preventivo pode ser mantido por prazo indeterminado.",
+      "A apuração deve assegurar direito de defesa ao preso.",
+      "A direção pode criar novas faltas graves por ordem de serviço.",
+      "A sanção disciplinar pode atingir familiares do preso."
+    ],
+    "correta": 2,
+    "justificativas": [
+      "Incorreta. A imposição de sanção exige procedimento e registro formal.",
+      "Incorreta. Medidas preventivas e sanções possuem limites legais.",
+      "Correta. A apuração disciplinar deve observar o direito de defesa e o devido procedimento.",
+      "Incorreta. Faltas graves dependem de previsão legal.",
+      "Incorreta. A sanção é pessoal e não pode alcançar familiares."
+    ]
+  },
+  {
+    "id": 2,
+    "materia": "Conhecimentos Gerais Relativos ao Sistema Prisional",
+    "assunto": "Estabelecimentos penais",
+    "dificuldade": 7,
+    "enunciado": "Sobre a destinação dos estabelecimentos penais, assinale a alternativa correta.",
+    "alternativas": [
+      "A penitenciária destina-se exclusivamente ao preso provisório.",
+      "A cadeia pública destina-se ao recolhimento de presos provisórios.",
+      "A casa do albergado é destinada ao regime fechado.",
+      "A colônia agrícola é destinada exclusivamente a adolescentes.",
+      "O hospital de custódia substitui qualquer unidade prisional."
+    ],
+    "correta": 1,
+    "justificativas": [
+      "Incorreta. A penitenciária relaciona-se ao cumprimento de pena em regime fechado.",
+      "Correta. A cadeia pública é destinada ao recolhimento de presos provisórios.",
+      "Incorreta. A casa do albergado está vinculada ao regime aberto e à limitação de fim de semana.",
+      "Incorreta. A colônia agrícola, industrial ou similar relaciona-se ao regime semiaberto.",
+      "Incorreta. O hospital de custódia possui finalidade específica."
+    ]
+  },
+  {
+    "id": 3,
+    "materia": "Raciocínio Lógico",
+    "assunto": "Negação de proposições",
+    "dificuldade": 7,
+    "enunciado": "A negação lógica de “Todos os servidores participaram do treinamento” é:",
+    "alternativas": [
+      "Nenhum servidor participou do treinamento.",
+      "Todos os servidores não participaram do treinamento.",
+      "Pelo menos um servidor não participou do treinamento.",
+      "Alguns servidores participaram do treinamento.",
+      "Somente um servidor não participou do treinamento."
+    ],
+    "correta": 2,
+    "justificativas": [
+      "Incorreta. Isso é mais forte do que a negação necessária.",
+      "Incorreta. Também afirma que nenhum participou.",
+      "Correta. A negação de uma universal afirmativa é a existência de ao menos um contraexemplo.",
+      "Incorreta. Pode ser verdadeira juntamente com a proposição original.",
+      "Incorreta. A negação não exige exatamente um."
+    ]
+  },
+  {
+    "id": 4,
+    "materia": "Informática",
+    "assunto": "Segurança da informação",
+    "dificuldade": 8,
+    "enunciado": "Um servidor recebe mensagem que imita o portal institucional e solicita redefinição urgente de senha. Essa técnica é mais adequadamente classificada como:",
+    "alternativas": [
+      "Backup",
+      "Phishing",
+      "Hashing",
+      "Firewall",
+      "Virtualização"
+    ],
+    "correta": 1,
+    "justificativas": [
+      "Incorreta. Backup é cópia de segurança.",
+      "Correta. Phishing usa fraude e engenharia social para obter credenciais ou dados.",
+      "Incorreta. Hashing transforma dados por função de resumo.",
+      "Incorreta. Firewall controla tráfego de rede.",
+      "Incorreta. Virtualização cria ambientes computacionais abstratos."
+    ]
+  },
+  {
+    "id": 5,
+    "materia": "Língua Portuguesa",
+    "assunto": "Concordância verbal",
+    "dificuldade": 8,
+    "enunciado": "Assinale a frase em conformidade com a norma-padrão de concordância verbal.",
+    "alternativas": [
+      "Fazem dois anos que estudo para o concurso.",
+      "Houveram muitos recursos contra a prova.",
+      "Existem razões suficientes para a revisão.",
+      "Deve haverem novas convocações.",
+      "Tratam-se de normas estaduais."
+    ],
+    "correta": 2,
+    "justificativas": [
+      "Incorreta. O verbo fazer, indicando tempo decorrido, é impessoal: faz dois anos.",
+      "Incorreta. O verbo haver com sentido de existir é impessoal: houve.",
+      "Correta. O verbo existir concorda normalmente com o sujeito plural.",
+      "Incorreta. Na locução com haver impessoal: deve haver.",
+      "Incorreta. Em 'trata-se de', o verbo permanece no singular."
+    ]
+  }
+]
